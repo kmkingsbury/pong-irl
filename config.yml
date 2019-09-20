@@ -1,0 +1,24 @@
+controller1:
+    enabled: false
+    path: dev/input/event0
+controller2:
+    enabled: false
+    path: dev/input/event1
+board:
+    fixed: false
+    x1: 0
+    x2: 200
+    y1: 100
+    y2: 300
+paddle1:
+    x1: 0
+    y1: 100
+    x2: 100
+    y2: 100
+    length_in_steps: 654
+paddle2:
+    x1: 0
+    y1: 100
+    x2: 100
+    y2: 100
+    length_in_steps: 300
